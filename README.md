@@ -1,4 +1,4 @@
-Semantic Search System for Policy Documents
+**Semantic Search System for Policy Documents**
 
 **Overview:**
 This project focuses on creating a semantic search system tailored for policy documents, integrating advanced techniques for document processing, vector embeddings, and coherent answer generation. The system comprises three key layers: embedding, searching, and generation, each optimized for enhanced performance.
